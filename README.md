@@ -101,21 +101,13 @@ The designed components were manufactured using **3D printing** and assembled to
 
 #### Assembly View 2
 
-![Assembly View 2](images/assembly/Screenshot%202026-08-03%20130632.png)
+![Assembly View 3](images/assembly/Screenshot%202026-08-03%20130711.png)
 
 #### Assembly View 3
 
-![Assembly View 3](images/assembly/Screenshot%202026-08-03%20130711.png)
-
-#### Assembly View 4
-
 ![Assembly View 4](images/assembly/Screenshot%202026-08-03%20130728.png)
 
-#### Assembly View 5
-
-![Assembly View 5](images/assembly/Screenshot%202026-08-03%20130812.png)
-
-#### Assembly View 6
+#### Assembly View 4
 
 ![Assembly View 6](images/assembly/Screenshot%202026-08-03%20130825.png)
 
